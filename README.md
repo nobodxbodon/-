@@ -16,7 +16,5 @@
     支持与其他编程语言的集成
     源码版本间易于比较
 
-作者：吴烜
-链接：https://www.zhihu.com/question/55386231/answer/144367953
-来源：知乎
+源：https://www.zhihu.com/question/55386231/answer/144367953
 著作权归作者所有，转载请联系作者获得授权。
